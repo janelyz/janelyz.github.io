@@ -1,2 +1,4 @@
-	name: Jane Liu, senior statistic student
-	markdown: kramdown
+name: Jane Liu, senior statistic student
+markdown: kramdown
+permalink: /blog/:2021/:03/:01/:professional development
+
